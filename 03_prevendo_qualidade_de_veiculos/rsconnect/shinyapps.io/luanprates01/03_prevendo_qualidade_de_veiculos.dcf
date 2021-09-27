@@ -1,0 +1,14 @@
+name: 03_prevendo_qualidade_de_veiculos
+title: 03_prevendo_qualidade_de_veiculos
+username:
+account: luanprates01
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4745483
+bundleId: 5078468
+url: https://luanprates01.shinyapps.io/03_prevendo_qualidade_de_veiculos/
+when: 1632781570.89984
+lastSyncTime: 1632781570.89984
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: criando_modelo.R
