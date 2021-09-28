@@ -1,0 +1,13 @@
+name: 04_prevendo_producao_de_leite
+title: 04_prevendo_producao_de_leite
+username:
+account: luanprates01
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4749310
+bundleId: 5080617
+url: https://luanprates01.shinyapps.io/04_prevendo_producao_de_leite/
+when: 1632832433.83443
+lastSyncTime: 1632832433.83443
+asMultiple: FALSE
+asStatic: FALSE
