@@ -1,5 +1,3 @@
-rsconnect::setAccountInfo(name='luanprates02', token='5CB3097C6DF6CE512BEEF452587D9A24', secret='pXMJu8V6ziXd5nBK42SpKyNZJvapaj9C/CCVp9bQ')
-
 library(shiny)
 
 ui <- fluidPage(
